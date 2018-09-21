@@ -1,11 +1,16 @@
 _repo: The-Dyer-s-Guide-Being-a-compendium-of-the-art-of-dyeing-linen-cotton-silk-wool-muslin-dresse__53797
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53797-h/images/cover.jpg
 creator:
   author:
     agent_name: Packer, Thomas
     gutenberg_agent_id: '47539'
     url: http://www.gutenberg.org/2009/agents/47539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53797#The-Dyer-s-Guide-Being-a-compendium-of-the-art-of-dyeing-linen-cotton-silk-wool-muslin-dresse_
 gutenberg_issued: '2016-12-23'
 gutenberg_type: Text
 identifiers:
